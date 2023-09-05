@@ -1,3 +1,3 @@
 # git-challenges
 
-<Filling up some space>
+Filling up some space
